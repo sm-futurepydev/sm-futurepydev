@@ -2,10 +2,7 @@
 <h3 align="center">a passionate student with a keen interest in Data Structures and Algorithms, Data Science, Machine Learning, Deep Learning, Neural Networks, and more.</h3>
 <img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"></img>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samiulmuztaba&label=Profile%20views&color=0e75b6&style=flat" alt="samiulmuztaba" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samiulmuztaba" alt="samiulmuztaba" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/samiulmuztaba" target="blank"><img src="https://img.shields.io/twitter/follow/samiulmuztaba?logo=twitter&style=for-the-badge" alt="samiulmuztaba" /></a> </p>
 
