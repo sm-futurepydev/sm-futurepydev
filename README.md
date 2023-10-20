@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samiul Muztaba</h1>
 <h3 align="center">a passionate student with a keen interest in Data Structures and Algorithms, Data Science, Machine Learning, Deep Learning, Neural Networks, and more.</h3>
-<img align="right" alt="coding" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"></img>
+<img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"></img>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samiulmuztaba&label=Profile%20views&color=0e75b6&style=flat" alt="samiulmuztaba" /> </p>
