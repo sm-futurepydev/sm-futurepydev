@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python**
 
-- ⚡ Fun fact **I don't know my fun fact**
+- ⚡ Fun fact **I don't my fun fact**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,9 +21,13 @@
 <a href="https://dev.to/samiulmuztaba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="samiulmuztaba" height="30" width="40" /></a>
 <a href="https://twitter.com/samiulmuztaba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samiulmuztaba" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/samiul-muztaba-953696294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samiul-muztaba-953696294" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22775720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22775720" height="30" width="40" /></a>
+<a href="https://hashnode.com/@samiulmuztaba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@samiulmuztaba" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/samiul muztaba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="samiul muztaba" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/samiulmuztaba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="samiulmuztaba" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/samiulmuztaba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samiulmuztaba" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@samiulmuztaba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@samiulmuztaba" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/user/samiulmk21j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/samiulmk21j" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
