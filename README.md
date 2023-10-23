@@ -1,7 +1,7 @@
 ![logo](https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?fit=1170%2C390&ssl=1)
 <h1 align="center">Hi 👋, I'm Samiul Muztaba</h1>
 <h3 align="center">a passionate student with a keen interest in Data Structures and Algorithms, Data Science, Machine Learning, Deep Learning, Neural Networks, and more.</h3>
-<img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"></img>
+<img align="right" width="400" alt="coding" src="https://th.bing.com/th/id/OIG.3HAEgi512lS624.jbl6H?w=270&h=270&c=6&r=0&o=5&dpr=1.3&pid=ImgGn"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samiulmuztaba&label=Profile%20views&color=0e75b6&style=flat" alt="samiulmuztaba" /> </p>
 
