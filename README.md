@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samiulmuztaba&label=Profile%20views&color=0e75b6&style=flat" alt="samiulmuztaba" /> </p>
 
-<p align="left"> <a href="https://twitter.com/samiulmuztaba" target="blank"><img src="https://img.shields.io/twitter/follow/samiulmuztaba?logo=twitter&style=for-the-badge" alt="samiulmuztaba" /></a> </p>
-
 - 🔭 I’m currently working on **Portfolio Website**
 
 - 🌱 I’m currently learning **Python DSA**
