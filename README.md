@@ -5,9 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samiulmuztaba&label=Profile%20views&color=0e75b6&style=flat" alt="samiulmuztaba" /> </p>
 
-- 🔭 I’m currently working on **Portfolio Website**
+- 🔭 I’m currently working on [Portfolio Website](https://samiulmuztaba.pages.dev/)
 
 - 🌱 I’m currently learning **Python DSA**
+  
+- 👨‍💻 All of my projects are available at [https://samiulmuztaba.pages.dev/](https://samiulmuztaba.pages.dev/)
+
+- 📝 I regularly write articles on [https://samiulmuztaba.hashnode.dev/](https://samiulmuztaba.hashnode.dev/)
 
 - 💬 Ask me about **Python**
 
