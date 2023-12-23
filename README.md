@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samiulmuztaba&label=Profile%20views&color=0e75b6&style=flat" alt="samiulmuztaba" /> </p>
 
-- 🔭 I’m currently working on [Portfolio Website](https://samiulmuztaba.pages.dev/)
+- 🔭 I’m currently working on **Nothing!**
 
 - 🌱 I’m currently learning **Python DSA**
   
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python**
 
-- ⚡ Fun fact **I don't my fun fact**
+- ⚡ Fun fact **I don't know about my fun fact**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
