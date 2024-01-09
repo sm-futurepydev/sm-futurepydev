@@ -31,10 +31,11 @@
 <h1 align="center">hey there 👋</h1>
 
 # 💫 About Me:
+<a href="https://app.daily.dev/samiulmuztaba"><img align="right" src="https://api.daily.dev/devcards/ac8f56c600594dd99629ccbce601c063.png?r=ux1" width="200" alt="Samiul Muztaba's Dev Card"/></a>
 🔭 I’m currently working on nothing<br>👯 I’m looking to collaborate on none<br>🤝 I’m looking for help with sorted rotated list in binary<br>🌱 I’m currently learning DSA<br>💬 Ask me about Python<br>⚡ Fun fact I entered in programming world by one of my friends
 
-
-
+<br>
+<br>
 
 # 💻 Tech Stack:
 ![JavaScript](https://skillicons.dev/icons?i=js) ![Python](https://skillicons.dev/icons?i=py) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![vscode](https://skillicons.dev/icons?i=vscode) ![GitHub](https://skillicons.dev/icons?i=github) ![Git](https://skillicons.dev/icons?i=git)
