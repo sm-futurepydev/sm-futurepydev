@@ -1,8 +1,8 @@
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/SamiulMuztaba/SamiulMuztaba/main/github%20banner.png"  />
+  <img  src="https://raw.githubusercontent.com/SamiulMuztaba/SamiulMuztaba/main/github%20banner.png"  />
 </div>
 
-###
+### 
 
 <div align="center">
   <a href="https://codepen.io/samiulmuztaba" target="_blank">
@@ -30,55 +30,32 @@
 
 <h1 align="center">hey there 👋</h1>
 
-###
+# 💫 About Me:
+🔭 I’m currently working on nothing<br>👯 I’m looking to collaborate on none<br>🤝 I’m looking for help with sorted rotated list in binary<br>🌱 I’m currently learning DSA<br>💬 Ask me about Python<br>⚡ Fun fact I entered in programming world by one of my friends
 
-<h3 align="left">👩‍💻  About Me</h3>
 
-###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
-###
+# 💻 Tech Stack:
+![JavaScript](https://skillicons.dev/icons?i=js) ![Python](https://skillicons.dev/icons?i=py) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![vscode](https://skillicons.dev/icons?i=vscode) ![GitHub](https://skillicons.dev/icons?i=github) ![Git](https://skillicons.dev/icons?i=git)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SamiulMuztaba&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SamiulMuztaba&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamiulMuztaba&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h3 align="left">🛠 Language and tools</h3>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SamiulMuztaba&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-###
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SamiulMuztaba&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-###
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<h3 align="left">🔥   My Stats :</h3>
+---
+[![](https://visitcount.itsvg.in/api?id=SamiulMuztaba&icon=0&color=0)](https://visitcount.itsvg.in)
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SamiulMuztaba&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamiulMuztaba&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamiulMuztaba&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/SamiulMuztaba/SamiulMuztaba/output/snake.svg" alt="Snake animation" />
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
