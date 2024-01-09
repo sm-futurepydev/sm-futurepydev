@@ -1,7 +1,7 @@
 ![logo](https://raw.githubusercontent.com/SamiulMuztaba/SamiulMuztaba/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Samiul Muztaba</h1>
 <h3 align="center">a passionate student with a keen interest in Data Structures and Algorithms, Data Science, Machine Learning, Deep Learning, Neural Networks, and more.</h3>
-<img align="right" width="400" alt="coding" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"></img>
+<a href="https://app.daily.dev/samiulmuztaba"><img align="right" src="https://api.daily.dev/devcards/ac8f56c600594dd99629ccbce601c063.png?r=cub" width="300" alt="Samiul Muztaba's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samiulmuztaba&label=Profile%20views&color=0e75b6&style=flat" alt="samiulmuztaba" /> </p>
 
