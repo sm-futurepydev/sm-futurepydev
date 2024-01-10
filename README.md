@@ -38,7 +38,8 @@
 <br>
 
 # 💻 Tech Stack:
-![JavaScript](https://skillicons.dev/icons?i=js) ![Python](https://skillicons.dev/icons?i=py) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![vscode](https://skillicons.dev/icons?i=vscode) ![GitHub](https://skillicons.dev/icons?i=github) ![Git](https://skillicons.dev/icons?i=git)
+![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![Python](https://skillicons.dev/icons?i=py) ![JavaScript](https://skillicons.dev/icons?i=js) ![vscode](https://skillicons.dev/icons?i=vscode) ![GitHub](https://skillicons.dev/icons?i=github) ![Git](https://skillicons.dev/icons?i=git)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SamiulMuztaba&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SamiulMuztaba&theme=dark&hide_border=false)<br/>
